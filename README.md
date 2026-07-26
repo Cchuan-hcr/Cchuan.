@@ -120,6 +120,7 @@ fsp pl
 ## TXT 转 Excel：输入说明
 
 使用“TXT 转 Excel”时，请选择 AX-Win 输出的 `tab.txt` 文件。
+可以将 TXT 文本转置为排序好的 Excel 表格。
 
 ## 系统要求
 
