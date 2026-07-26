@@ -12,13 +12,15 @@
 
 建议从仓库的 [Releases](https://github.com/Cchuan-hcr/Cchuan./releases/latest) 页面下载最新版本：
 
-- `EPMA数据转换.exe`
+- `EPMA.exe`（页面显示标签为“EPMA 数据转换器（Windows）”）
 
 当前版本：`v1.0.0`
 
+GitHub 会自动简化 Release 附件中的中文文件名。Release 中的 `EPMA.exe` 与仓库内的 `EPMA数据转换.exe` 内容相同。
+
 ## 使用方法
 
-1. 下载 `EPMA数据转换.exe`。
+1. 从 Releases 页面下载 `EPMA.exe`。
 2. 双击运行程序。
 3. 选择“Excel 转 TXT”或“TXT 转 Excel”，然后选择需要转换的文件。
 4. 点击“转换”，检查预览内容无误后点击“保存”。
@@ -35,6 +37,7 @@
 
 ```text
 0FB0DFAB6893EC081BCBC5AEB2D798DA50D4A3A6D112B2333FAB244C75203FFD  EPMA数据转换.exe
+0FB0DFAB6893EC081BCBC5AEB2D798DA50D4A3A6D112B2333FAB244C75203FFD  EPMA.exe
 ```
 
 仓库同时提供 `SHA256SUMS.txt`，可用于核对下载文件是否完整。
